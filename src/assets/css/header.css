@@ -1,0 +1,40 @@
+.header-section {
+    height: 70px;
+    box-shadow: 0 0 15px #eee;
+}
+.logo img {
+    height: 50px;
+    margin-top: 10px;
+}
+.logo {
+    width: 100%;
+}
+.login img {
+    height: 45px;
+    margin-right: 6px;
+}
+
+.login {
+float: right;
+    font-size: 14px;
+    line-height: 70px;
+    color: #4A4A4A;
+}
+.login i {
+    vertical-align: 0px;
+    margin-left: 6px;
+    color: #4A4A4A;
+}
+.login a {
+    text-decoration: none;
+    color: #4A4A4A;
+}
+
+
+
+
+
+
+
+
+
